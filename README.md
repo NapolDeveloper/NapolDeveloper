@@ -1,8 +1,9 @@
 
-#Hyunjae Kim
+# Hyunjae Kim
 ----------------
 
-### Hi there 👋
+### Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
+### 
 
   <div align=center>
   
