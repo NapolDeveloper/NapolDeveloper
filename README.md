@@ -1,7 +1,7 @@
 
 # Hyunjae Kim
 
-Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
+Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!  
 こんにちは！今**Frontend**と**日本語**を勉強中です!
 
   <div align=center>
