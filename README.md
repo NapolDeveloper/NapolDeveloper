@@ -9,9 +9,9 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loma1016@gmail.com)](mailto:loma1016@gmail.com)
   </div>	
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=NapolDeveloper&show_icons=true)  
+![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=NapolDeveloper&show_icons=true&theme=dracula)  
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapolDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
   
 
