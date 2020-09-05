@@ -6,7 +6,7 @@
   <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NapolDeveloper)](https://hits.seeyoufarm.com) 
-  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loma1016@gmail.com)](mailto:loma1016@gmail.com)
   </div>	
 
   
@@ -14,7 +14,7 @@
 
   <div align=center>
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loma1016@gmail.com)](mailto:loma1016@gmail.com)
+
 
   </div>	
 <!--
