@@ -15,6 +15,10 @@ Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapolDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
   
+  - Interest
+    - React.js
+    - React Native
+    - Html, CSS, Javascript
 
 
   </div>	
