@@ -1,9 +1,8 @@
 
 # Hyunjae Kim
-----------------
 
-### Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
-### 
+Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
+こんにちは！今**Frontend**と**日本語**を勉強中です!
 
   <div align=center>
   
@@ -11,9 +10,9 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:loma1016@gmail.com)](mailto:loma1016@gmail.com)
   </div>	
 
-![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=NapolDeveloper&show_icons=true&theme=dracula)  
+  ![Kinetic27's github stats](https://github-readme-stats.vercel.app/api?username=NapolDeveloper&show_icons=true&theme=dracula)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapolDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapolDeveloper&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   <div align=center>
   
 
