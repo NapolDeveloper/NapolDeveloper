@@ -17,10 +17,10 @@ Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
   
   </div>	
   
-  - Interest
-    - React.js
-    - React Native
-    - Html, CSS, Javascript
+  ### Interest
+  - React.js
+  - React Native
+  - Html, CSS, Javascript
 
 
 
