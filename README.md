@@ -19,7 +19,8 @@ Hi there 👋 ~ I am studying **Frontend**. And I am studying **Japanese**!
   
   ### Interest
   - React.js
-  - React Native
+  - discord.js
+  - SCSS, SASS
   - Html, CSS, Javascript
 
 
